@@ -1,0 +1,10 @@
+C:\Users\12267\source\repos\NYPbookStore\NYPBook.Models\bin\Debug\netcoreapp3.1\NYPBook.Models.deps.json
+C:\Users\12267\source\repos\NYPbookStore\NYPBook.Models\bin\Debug\netcoreapp3.1\NYPBook.Models.dll
+C:\Users\12267\source\repos\NYPbookStore\NYPBook.Models\bin\Debug\netcoreapp3.1\NYPBook.Models.pdb
+C:\Users\12267\source\repos\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.csproj.AssemblyReference.cache
+C:\Users\12267\source\repos\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12267\source\repos\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.AssemblyInfoInputs.cache
+C:\Users\12267\source\repos\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.AssemblyInfo.cs
+C:\Users\12267\source\repos\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\12267\source\repos\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.dll
+C:\Users\12267\source\repos\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.pdb
