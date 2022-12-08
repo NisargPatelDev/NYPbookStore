@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12267\\source\\repos\\NYPbookStore\\NYPBook.Utility\\NYPBook.Utility.csproj": {}
+    "F:\\NYPbookStore\\NYPbookStore\\NYPBook.Utility\\NYPBook.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12267\\source\\repos\\NYPbookStore\\NYPBook.Utility\\NYPBook.Utility.csproj": {
+    "F:\\NYPbookStore\\NYPbookStore\\NYPBook.Utility\\NYPBook.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12267\\source\\repos\\NYPbookStore\\NYPBook.Utility\\NYPBook.Utility.csproj",
+        "projectUniqueName": "F:\\NYPbookStore\\NYPbookStore\\NYPBook.Utility\\NYPBook.Utility.csproj",
         "projectName": "NYPBook.Utility",
-        "projectPath": "C:\\Users\\12267\\source\\repos\\NYPbookStore\\NYPBook.Utility\\NYPBook.Utility.csproj",
+        "projectPath": "F:\\NYPbookStore\\NYPbookStore\\NYPBook.Utility\\NYPBook.Utility.csproj",
         "packagesPath": "C:\\Users\\12267\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12267\\source\\repos\\NYPbookStore\\NYPBook.Utility\\obj\\",
+        "outputPath": "F:\\NYPbookStore\\NYPbookStore\\NYPBook.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\12267\\AppData\\Roaming\\NuGet\\NuGet.Config",

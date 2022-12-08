@@ -5866,11 +5866,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12267\\source\\repos\\NYPbookStore\\NYPBook.DataAccess\\NYPBook.DataAccess.csproj",
+      "projectUniqueName": "F:\\NYPbookStore\\NYPbookStore\\NYPBook.DataAccess\\NYPBook.DataAccess.csproj",
       "projectName": "NYPBook.DataAccess",
-      "projectPath": "C:\\Users\\12267\\source\\repos\\NYPbookStore\\NYPBook.DataAccess\\NYPBook.DataAccess.csproj",
+      "projectPath": "F:\\NYPbookStore\\NYPbookStore\\NYPBook.DataAccess\\NYPBook.DataAccess.csproj",
       "packagesPath": "C:\\Users\\12267\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12267\\source\\repos\\NYPbookStore\\NYPBook.DataAccess\\obj\\",
+      "outputPath": "F:\\NYPbookStore\\NYPbookStore\\NYPBook.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12267\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5887,8 +5887,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\12267\\source\\repos\\NYPbookStore\\NYPBook.Models\\NYPBook.Models.csproj": {
-              "projectPath": "C:\\Users\\12267\\source\\repos\\NYPbookStore\\NYPBook.Models\\NYPBook.Models.csproj"
+            "F:\\NYPbookStore\\NYPbookStore\\NYPBook.Models\\NYPBook.Models.csproj": {
+              "projectPath": "F:\\NYPbookStore\\NYPbookStore\\NYPBook.Models\\NYPBook.Models.csproj"
             }
           }
         }

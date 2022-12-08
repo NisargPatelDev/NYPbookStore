@@ -8,3 +8,13 @@ C:\Users\12267\source\repos\NYPbookStore\NYPBook.Utility\obj\Debug\netcoreapp3.1
 C:\Users\12267\source\repos\NYPbookStore\NYPBook.Utility\obj\Debug\netcoreapp3.1\NYPBook.Utility.csproj.CoreCompileInputs.cache
 C:\Users\12267\source\repos\NYPbookStore\NYPBook.Utility\obj\Debug\netcoreapp3.1\NYPBook.Utility.dll
 C:\Users\12267\source\repos\NYPbookStore\NYPBook.Utility\obj\Debug\netcoreapp3.1\NYPBook.Utility.pdb
+F:\NYPbookStore\NYPbookStore\NYPBook.Utility\bin\Debug\netcoreapp3.1\NYPBook.Utility.deps.json
+F:\NYPbookStore\NYPbookStore\NYPBook.Utility\bin\Debug\netcoreapp3.1\NYPBook.Utility.dll
+F:\NYPbookStore\NYPbookStore\NYPBook.Utility\bin\Debug\netcoreapp3.1\NYPBook.Utility.pdb
+F:\NYPbookStore\NYPbookStore\NYPBook.Utility\obj\Debug\netcoreapp3.1\NYPBook.Utility.csproj.AssemblyReference.cache
+F:\NYPbookStore\NYPbookStore\NYPBook.Utility\obj\Debug\netcoreapp3.1\NYPBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\NYPbookStore\NYPbookStore\NYPBook.Utility\obj\Debug\netcoreapp3.1\NYPBook.Utility.AssemblyInfoInputs.cache
+F:\NYPbookStore\NYPbookStore\NYPBook.Utility\obj\Debug\netcoreapp3.1\NYPBook.Utility.AssemblyInfo.cs
+F:\NYPbookStore\NYPbookStore\NYPBook.Utility\obj\Debug\netcoreapp3.1\NYPBook.Utility.csproj.CoreCompileInputs.cache
+F:\NYPbookStore\NYPbookStore\NYPBook.Utility\obj\Debug\netcoreapp3.1\NYPBook.Utility.dll
+F:\NYPbookStore\NYPbookStore\NYPBook.Utility\obj\Debug\netcoreapp3.1\NYPBook.Utility.pdb

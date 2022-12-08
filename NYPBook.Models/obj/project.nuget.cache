@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LH7jKiachLZoOxm7cD/m0O0mVLHK3mgVwP/l2yKKdWCQKt+ccjFDji+l9K3DMShZUTRQFTxAGfBwZKW5le4ajg==",
+  "dgSpecHash": "IP7NSh5oGgNK02RybRaghxGIgLgJTPNthwmbTANVMo5dgzCsc2jw7xJKm4LHZEZud4tIHit2RAuKCJSFQ5nRPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\12267\\source\\repos\\NYPbookStore\\NYPBook.Models\\NYPBook.Models.csproj",
+  "projectFilePath": "F:\\NYPbookStore\\NYPbookStore\\NYPBook.Models\\NYPBook.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\12267\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.28\\microsoft.aspnetcore.cryptography.internal.3.1.28.nupkg.sha512",
     "C:\\Users\\12267\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.28\\microsoft.aspnetcore.cryptography.keyderivation.3.1.28.nupkg.sha512",

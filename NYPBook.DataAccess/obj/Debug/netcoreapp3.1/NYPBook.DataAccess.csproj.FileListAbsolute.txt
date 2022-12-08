@@ -11,3 +11,16 @@ C:\Users\12267\source\repos\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp
 C:\Users\12267\source\repos\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp3.1\NYPBook.DataAccess.csproj.CopyComplete
 C:\Users\12267\source\repos\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp3.1\NYPBook.DataAccess.dll
 C:\Users\12267\source\repos\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp3.1\NYPBook.DataAccess.pdb
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\bin\Debug\netcoreapp3.1\NYPBook.DataAccess.deps.json
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\bin\Debug\netcoreapp3.1\NYPBook.DataAccess.dll
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\bin\Debug\netcoreapp3.1\NYPBook.DataAccess.pdb
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\bin\Debug\netcoreapp3.1\NYPBook.Models.dll
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\bin\Debug\netcoreapp3.1\NYPBook.Models.pdb
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp3.1\NYPBook.DataAccess.csproj.AssemblyReference.cache
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp3.1\NYPBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp3.1\NYPBook.DataAccess.AssemblyInfoInputs.cache
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp3.1\NYPBook.DataAccess.AssemblyInfo.cs
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp3.1\NYPBook.DataAccess.csproj.CoreCompileInputs.cache
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp3.1\NYPBook.DataAccess.csproj.CopyComplete
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp3.1\NYPBook.DataAccess.dll
+F:\NYPbookStore\NYPbookStore\NYPBook.DataAccess\obj\Debug\netcoreapp3.1\NYPBook.DataAccess.pdb
