@@ -11,10 +11,10 @@ C:\Users\12267\source\repos\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\
 F:\NYPbookStore\NYPbookStore\NYPBook.Models\bin\Debug\netcoreapp3.1\NYPBook.Models.deps.json
 F:\NYPbookStore\NYPbookStore\NYPBook.Models\bin\Debug\netcoreapp3.1\NYPBook.Models.dll
 F:\NYPbookStore\NYPbookStore\NYPBook.Models\bin\Debug\netcoreapp3.1\NYPBook.Models.pdb
-F:\NYPbookStore\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.csproj.AssemblyReference.cache
 F:\NYPbookStore\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.GeneratedMSBuildEditorConfig.editorconfig
 F:\NYPbookStore\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.AssemblyInfoInputs.cache
 F:\NYPbookStore\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.AssemblyInfo.cs
 F:\NYPbookStore\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.csproj.CoreCompileInputs.cache
 F:\NYPbookStore\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.dll
 F:\NYPbookStore\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.pdb
+F:\NYPbookStore\NYPbookStore\NYPBook.Models\obj\Debug\netcoreapp3.1\NYPBook.Models.csproj.AssemblyReference.cache
